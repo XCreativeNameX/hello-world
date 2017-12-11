@@ -1,2 +1,5 @@
 # hello-world
-Just another repository.
+
+Hi Humans!
+
+CN here, I like JavaScript, C++, and html.
